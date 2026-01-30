@@ -1,0 +1,30 @@
+.city {
+    color:blue;
+    font-family: Arial, sans-serif;
+}
+/* # means IDs */
+#london {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+#paris {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+#tokyo {
+       font-size: 20px;
+    font-weight: bold;
+    background-color: lightpink;
+}
+
+body {
+    background-color: lavender;
+} 
+
+.city-image {
+    border-radius:50%
+}

@@ -1,0 +1,12 @@
+table,th,td {
+    border:1px solid black;
+    border-collapse: collapse;
+    /* center the table; */
+/* margin:auto; */
+margin: 0 auto;
+
+}
+table{
+    background-color: rgb(255, 182, 216);
+    /* move to center of page */
+}
